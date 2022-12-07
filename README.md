@@ -1,1 +1,3 @@
-# test-submodule-level2
+# Level 2 Submodule
+
+This is for testing issues with cloning submodules.
